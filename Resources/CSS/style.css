@@ -1,0 +1,28 @@
+* {
+    padding : 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+
+.hero {
+ font-size: 100px;
+ font-weight: bold;
+ color: khaki;
+ background-image: url('/Users/christian/Coding/DevProject2/Resources/Images/pattern.jpeg');
+ text-align: center;
+}
+
+.heading {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+}
+.red {
+    background-color: lightcoral;
+}
+.blue {
+    background-color: skyblue;
+}
+.green {
+    background-color: mediumspringgreen;
+}
